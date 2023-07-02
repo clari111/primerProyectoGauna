@@ -7,3 +7,10 @@
 .body{
     background-color: rgb(167, 231, 225);
 }
+header{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
