@@ -34,3 +34,6 @@ transform: translateY(-3%);
  .card p{
      color: rgb(255, 249, 255);
  }
+ .card button{
+     color: rgb(60, 41, 105);
+ }
