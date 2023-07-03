@@ -4,7 +4,7 @@ h1{
     color: rgb(0, 0, 0)
 }
 body{
-    background-color: rgb(214, 166, 226);
+    background-color: rgb(76, 81, 128);
 }
 header{
     display: flex;
@@ -20,4 +20,8 @@ h3{
 }
 h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
 }

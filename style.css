@@ -1,5 +1,5 @@
 .card{
-    background-color: rgb(231, 169, 231);
+    background-color: rgb(73, 74, 117);
 }
 .h1 {
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,5 +12,8 @@ header{
     justify-content: space-around;
 }
 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
