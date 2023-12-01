@@ -14,3 +14,19 @@ function cambiarImagen() {
    cambiar  = false
    }
    }
+
+   let remeraporadelante = document.querySelector('#remeratheeras')
+let remeraporatras = document.querySelector('.remeraatras')
+/* profe no me saleeee */
+let imagenCambiada = false
+remeraporadelante.onclick = function () {
+    if (imagenCambiada == false) {
+        remeraimagen.src = 'remeratheeras.webp'
+        imagenCambiada = true
+    }else{
+        remeraimagen.src = 'remeratheerasporatras.webp'
+        imagenCambiada = false
+    }
+}
+
+
